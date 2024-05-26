@@ -1,4 +1,4 @@
- {
+{
   "name": "hexlet",
   "type": "module",
   "version": "1.0.0",
@@ -8,5 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Esenia Zipunnikova <sen98ia@gmail.com> (https://github.com/sen98ia)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
